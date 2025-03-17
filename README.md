@@ -77,7 +77,7 @@ Interested in contributing? Feel free to fork the repository and submit pull req
 For inquiries or collaborations, reach out via:
 
 - **Email**: [shrimalinishka@gmail.com](mailto:shrimalinishka@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/nishka-codes/)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/nishka-codes/)
 
 ---
 
