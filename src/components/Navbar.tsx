@@ -42,7 +42,7 @@ export default function Navbar() {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
             <Share2 className="h-8 w-8 text-blue-600" />
-            <span className="ml-2 text-xl font-bold text-gray-900">UntitledWeb</span>
+            <span className="ml-2 text-xl font-bold text-gray-900">Resources</span>
           </div>
           <div className="flex items-center">
             <div className="mr-4 text-gray-700">

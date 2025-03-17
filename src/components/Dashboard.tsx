@@ -172,7 +172,7 @@ export default function Dashboard({ user }: DashboardProps) {
       <aside className="fixed inset-y-0 left-0 w-72 bg-white border-r border-gray-200 shadow-lg z-50">
         <div className="flex items-center gap-3 px-6 h-16 border-b border-gray-200 bg-gradient-to-r from-blue-500 to-blue-600">
           <Sparkles className="h-6 w-6 text-white" />
-          <h1 className="text-xl font-bold text-white">Untitled</h1>
+          <h1 className="text-xl font-bold text-white">Resources</h1>
         </div>
         <div className="p-6">
           <div className="flex items-center gap-4 mb-8 p-4 bg-blue-50 rounded-xl">
